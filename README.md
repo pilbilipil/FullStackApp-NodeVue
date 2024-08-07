@@ -1,5 +1,5 @@
 Description:
-A simple backend application written in js(node-v20.15.1 , express-^4.19.2)
+A simple full-stack application written in js(node-v20.15.1 , express-^4.19.2, ^3.4.31)
 
 The oracle database 19.3.0-ee was used
 
